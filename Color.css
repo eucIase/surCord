@@ -42,7 +42,7 @@
 .modeUnread-3Cxepe:hover .name-28HaxV,
 .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV,
 .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
-  color: #d8a6f4 !important;
+  color: #f9f9f9 !important;
 }
 .modeSelected-3DmyhH .icon-2W8DHg,
 .modeSelected-3DmyhH:hover .icon-2W8DHg,
@@ -58,5 +58,5 @@
 .numberBadge-37OJ3S,
 .unreadRelevant-2f-VSK,
 .newBadge-1bHewI {
-  background: rgba(51, 152, 148) !important;
+  background: rgba(249, 249, 249) !important;
 }
