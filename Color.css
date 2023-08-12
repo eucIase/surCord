@@ -1,8 +1,8 @@
 :root {
   --accent: rgb(177, 77, 98);
-  --accent-hover: rgb(51, 152, 148, 0.977);
-  --accent-selected: rgb(51, 152, 148, 0.612);
-  --accent-focused: rgb(51, 152, 148, 0.2);
+  --accent-hover: rgb(250, 116, 178, 0.977);
+  --accent-selected: rgb(250, 116, 178, 0.612);
+  --accent-focused: rgb(250, 116, 178, 0.2);
 }
 .iconWrapper-2awDjA .icon-2xnN2Y,
 .stickerIcon-3Jx5SE,
