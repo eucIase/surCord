@@ -31,7 +31,7 @@
 .addButtonIcon-3rJeaD,
 .modeUnread-3Cxepe .icon-2W8DHg,
 .unreadRelevant-2f-VSK {
-  color: rgba(150, 184, 248) !important;
+  color: rgba(150, 184, 248) !important; /*___ Textbox/Chat Color___*/
 }
 .messageContent-2t3eCI,
 .modeConnected-NrO4cP .name-28HaxV,
@@ -58,5 +58,5 @@
 .numberBadge-37OJ3S,
 .unreadRelevant-2f-VSK,
 .newBadge-1bHewI {
-  background: rgba(249, 249, 249) !important;
+  background: rgba(250, 116, 178) !important;
 }
